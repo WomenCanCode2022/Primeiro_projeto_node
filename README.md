@@ -15,4 +15,4 @@
   - Crie um novo arquivo com o nome de sua escolha e a extensão **.js**, por exemplo, "app.js"
   - Agora podemos copiar o código do arquivo app.js aqui do repositório e cola-lo dentro do arquivo que foi criado no VSCode
   - Para executar o projeto vamos voltar ao terminal e digitar o comando: **node app.js** 
-    **obs:** Se você nomeou seu arquivo com um nome diferente de "app.js", substitua "app.js" pelo nome que utilizou no seu arquivo.
+    - **obs:** Se você nomeou seu arquivo com um nome diferente de "app.js", substitua "app.js" pelo nome que utilizou no seu arquivo.
